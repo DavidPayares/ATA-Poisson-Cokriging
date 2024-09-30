@@ -1,0 +1,27 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.34.2-Prizren">
+  <identifier>MGN_ANM_MANZANA</identifier>
+  <parentidentifier></parentidentifier>
+  <language>SPA</language>
+  <type>dataset</type>
+  <title>MGN_ANM_MANZANA</title>
+  <abstract></abstract>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["MAGNA-SIRGAS",DATUM["Marco Geocentrico Nacional de Referencia",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["Colombia - onshore and offshore. Includes San Andres y Providencia, Malpelo Islands, Roncador Bank, Serrana Bank and Serranilla Bank."],BBOX[-4.23,-84.77,15.51,-66.87]],ID["EPSG",4686]]</wkt>
+      <proj4>+proj=longlat +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +no_defs</proj4>
+      <srsid>3529</srsid>
+      <srid>4686</srid>
+      <authid>EPSG:4686</authid>
+      <description>MAGNA-SIRGAS</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>
